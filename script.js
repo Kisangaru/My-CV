@@ -102,7 +102,7 @@ function applyTheme(isNight) {
         }
 
         document.querySelectorAll('h1, h2, h3, strong').forEach(el => {
-            el.style.color = '#2c3e50';
+            el.style.color = '#4d3f19';
         });
     }
 }
